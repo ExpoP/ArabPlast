@@ -2,16 +2,26 @@ package expoplatform.arabplast;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
 public class LogoActivity extends Activity {
 
+    private final String TAG = getClass().getSimpleName();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_logo);
+
+
+        try {
+            Thread.sleep(3L * 1000L);
+        } catch (Exception e) {
+            Log.e(TAG, "Main thread interrupted", e);
+        }
     }
 
 
