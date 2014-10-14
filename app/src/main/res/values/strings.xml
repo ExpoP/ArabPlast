@@ -4,5 +4,12 @@
     <string name="app_name">ArabPlast</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_exhibitions">Exhibitions</string>
+    <string name="title_activity_about_expo">AboutExpo</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="toMainMenu">To main menu</string>
+    <string name="title_activity_ivent_info">IventInfo</string>
+    <string name="ChooseExhibition">Choose Exhibition:</string>
+    <string name="ArabPlast2015"><b>ArabPlast 2015</b></string>
 
 </resources>

@@ -1,6 +1,8 @@
 package expoplatform.arabplast;
 
+import android.app.ActionBar;
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.Menu;
@@ -16,12 +18,13 @@ public class LogoActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_logo);
 
-
         try {
             Thread.sleep(3L * 1000L);
         } catch (Exception e) {
             Log.e(TAG, "Main thread interrupted", e);
         }
+
+        startActivity(new Intent(this, Exhibitions.class));
     }
 
 
