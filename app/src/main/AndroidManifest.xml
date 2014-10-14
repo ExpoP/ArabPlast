@@ -30,7 +30,8 @@
         </activity>
         <activity
             android:name="expoplatform.arabplast.IventInfo"
-            android:label="@string/title_activity_ivent_info" >
+            android:label="@string/title_activity_ivent_info"
+            android:theme="@style/IventInfo">
         </activity>
     </application>
 

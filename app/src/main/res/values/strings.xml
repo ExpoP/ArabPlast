@@ -11,5 +11,13 @@
     <string name="title_activity_ivent_info">IventInfo</string>
     <string name="ChooseExhibition">Choose Exhibition:</string>
     <string name="ArabPlast2015"><b>ArabPlast 2015</b></string>
-
+    <string name="Login">Login</string>
+    <string name="AboutExpo">About Expo</string>
+    <string name="ExhibitorCatalogue">Exhibitor Catalogue</string>
+    <string name="ProductCatalogue">Product Catalogue</string>
+    <string name="FloorPlan">Floor Plan</string>
+    <string name="Visitors">Visitors</string>
+    <string name="TravelInfo">Travel Info</string>
+    <string name="Contacts">Contacts</string>
+    <string name="AboutApp">About App</string>
 </resources>
