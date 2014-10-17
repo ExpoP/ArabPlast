@@ -25,7 +25,7 @@
             android:label="@string/title_activity_about_expo" >
         </activity>
         <activity
-            android:name="expoplatform.arabplast.MainMenu"
+            android:name=".ActionBarMenu"
             android:label="@string/title_activity_main_menu" >
         </activity>
         <activity

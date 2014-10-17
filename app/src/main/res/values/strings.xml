@@ -10,8 +10,9 @@
     <string name="toMainMenu">To main menu</string>
     <string name="title_activity_ivent_info">IventInfo</string>
     <string name="ChooseExhibition">Choose Exhibition:</string>
-    <string name="ArabPlast2015"><b>ArabPlast 2015</b></string>
+    <string name="ArabPlast2015"><b>ArabPlast 2015</b> 10 – 13 Jan 2015</string>
     <string name="Login">Login</string>
+    <string name="AllExhibitions">All Exhibitions</string>
     <string name="AboutExpo">About Expo</string>
     <string name="ExhibitorCatalogue">Exhibitor Catalogue</string>
     <string name="ProductCatalogue">Product Catalogue</string>
@@ -20,4 +21,27 @@
     <string name="TravelInfo">Travel Info</string>
     <string name="Contacts">Contacts</string>
     <string name="AboutApp">About App</string>
+    <string name="WelcomeToArabPlast2015">
+        Welcome to ArabPlast 2015!
+Now is the time to expand the borders of your business...
+Now is the time to push your sales…
+Now is the time to build your brand image...
+Now is the time to showcase your products and services...
+Now is the time to mark your 2015 calendar...
+Unveiling the LARGEST plastics, petrochemicals and rubber industry trade
+    show in MENA
+    </string>
+    <string name="WelcomeToArabPlast2015_2part">
+    region – ARABPLAST 2015 - the FASTEST way to enter the vast MENA
+    region’s plastics, petrochemicals and rubber industry. ArabPlast 2015
+    is envisioned to make better business sense to the participants who are giving
+    shape to a better world.
+    The captains of the plastics and rubber industry would be here to unveil products
+    solutions, cutting-edge technology, and revolutionary innovations and
+    forge international alliances. Yes, it’s an event that would provide
+    a greater leverage to international exhibitors and trade visitors with
+    decision-making authority. Seize this opportunity as a manufacturer or service
+    provider at ArabPlast 2015. It’s the perfect venue to showcase your products and
+    innovations, develop contacts and sign profitable partnerships.
+    </string>
 </resources>
