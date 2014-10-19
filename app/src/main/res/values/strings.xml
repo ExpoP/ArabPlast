@@ -10,7 +10,7 @@
     <string name="toMainMenu">To main menu</string>
     <string name="title_activity_ivent_info">IventInfo</string>
     <string name="ChooseExhibition">Choose Exhibition:</string>
-    <string name="ArabPlast2015"><b>ArabPlast 2015</b> 10 – 13 Jan 2015</string>
+    <string name="ArabPlast2015">  <b>ArabPlast 2015</b>\n10 – 13 Jan 2015</string>
     <string name="Login">Login</string>
     <string name="AllExhibitions">All Exhibitions</string>
     <string name="AboutExpo">About Expo</string>
@@ -22,26 +22,44 @@
     <string name="Contacts">Contacts</string>
     <string name="AboutApp">About App</string>
     <string name="WelcomeToArabPlast2015">
-        Welcome to ArabPlast 2015!
-Now is the time to expand the borders of your business...
-Now is the time to push your sales…
-Now is the time to build your brand image...
-Now is the time to showcase your products and services...
-Now is the time to mark your 2015 calendar...
-Unveiling the LARGEST plastics, petrochemicals and rubber industry trade
-    show in MENA
+        Welcome to ArabPlast 2015!\n
+        Now is the time to expand the borders of your business…\n
+        Now is the time to push your sales…\n
+        Now is the time to build your brand image…\n
+        Now is the time to showcase your products and services…\n
+        Now is the time to mark your 2015 calendar…\n
+        Unveiling the LARGEST plastics, petrochemicals and rubber industry trade show in MENA region –
+        ARABPLAST 2015 - the FASTEST way to enter the vast MENA region’s plastics, petrochemicals and rubber industry.
+        ArabPlast 2015 is envisioned to make better business sense to the participants who are giving shape to a better world.
+        The captains of the plastics and rubber industry would be here to unveil products solutions, cutting-edge technology,
+        and revolutionary innovations and forge international alliances. Yes, it’s an event that would provide a greater leverage
+        to international exhibitors and trade visitors with decision-making authority. Seize this opportunity as a manufacturer or
+        service provider at ArabPlast 2015. It’s the perfect venue to showcase your products and innovations, develop contacts and
+        sign profitable partnerships.
     </string>
-    <string name="WelcomeToArabPlast2015_2part">
-    region – ARABPLAST 2015 - the FASTEST way to enter the vast MENA
-    region’s plastics, petrochemicals and rubber industry. ArabPlast 2015
-    is envisioned to make better business sense to the participants who are giving
-    shape to a better world.
-    The captains of the plastics and rubber industry would be here to unveil products
-    solutions, cutting-edge technology, and revolutionary innovations and
-    forge international alliances. Yes, it’s an event that would provide
-    a greater leverage to international exhibitors and trade visitors with
-    decision-making authority. Seize this opportunity as a manufacturer or service
-    provider at ArabPlast 2015. It’s the perfect venue to showcase your products and
-    innovations, develop contacts and sign profitable partnerships.
+
+    <string name="WhyVisit" formatted="false">
+        Investments in plastics and petrochemical sector is on the upswing
+        defying the global financial crisis. The Gulf petrochemicals industry continues to be
+        the world’s largest producer and exporter, offloading the majority of its output
+        to more than 150 countries worldwide.The Gulf states account for 11% of the $600BN global petrochemical industry.
+        Over the next five years, the Gulf’s market share of the global petrochemical industry will jump to over 17%,
+        according to an industrial study. GCC plastics industry becoming more vibrant as the vibrant as the demand
+        for the new products is growing with rapid speed in the region.
     </string>
+    <string name="WhyVisit2" formatted="false">
+        Gulf states are poised to become the world’s largest source of polyethylene (PE) and polypropylene (PP).
+        The PE production capacities in the GCC countries are expected to increase from 10.7 million tonnes in 2009
+        to 21.5 million tonnes by 2015, while the production of PP is expected to rise from 4.8 million tonnes in 2009
+        to 9.5 million tonnes by 2015. This will bring the combined production capacities of the two major polyolefin resins to
+        over 31 million tonnes by 2015. By 2020, GCC plastic consumption will grow about 8%,compared to 25 % by Europe and NAFTA countries,
+        and 37 % in Asian and Oceanic countries. The world will consume 540 million tonnes of plastic in 2020,
+        The plastic sector also benefiting strongly from Gulf Countries drive towards “green buildings” in the recent years.
+        There is continuous growth in the plastics converting industry with substantial expansion of polymer production in the Middle East.
+        This makes the region a major market for plastic additives. The UAE’s massive drive to build one of the world’s most advanced
+        infrastructures has fuelled demand for plastics products, from tubes to cables and wires. The automotive industry benefits
+        from the use of plastic tubes because the material makes cars lighter; so do hospitals are shifting from breakable glass syringes
+        to plastic ones.
+    </string>
+
 </resources>
