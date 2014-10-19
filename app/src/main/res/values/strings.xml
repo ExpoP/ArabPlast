@@ -62,4 +62,63 @@
         to plastic ones.
     </string>
 
+    <string name="WhyExhibit1" formatted="false">
+        Arabplast 2013 grew 34% following greater response from exhibitors and sponsors.
+        Arabplast is also ranked as No. 1 show in the region for plastics, petrochemicals and rubber industry.
+        A record number of 794 companies from 41 countries have participated in Arabplast 2013.
+        On display at Arabplast 2013 there were new products and technologies in inj ection moulding, blow moulding,
+        wrapping and packaging, pre and post plastic processing techniques as well as raw materials, such as additives and polymers.
+        The show covered a wide spectrum of plastic machinery, plastic/rubber processing technology, pre and post-processing systems,
+        plastic packaging technology, injection moulding, blow moulding, wrapping technology, extrusions, chemicals and additives,
+        semi finished goods, engineering plastics and plastic products.Positive visitor response to high International level
+        of participation and wide spectrum of exhibits.
+        Approximately 33% more trade professionals came to Arabplast 2013 edition. 39% came from countries outside of GCC.
+        The largest number of foreign visitors came from Saudi Arabia, Oman, Qatar, Bahrain, Kuwait, Iran, Pakistan, Egypt,
+        African countries, and India, while China, Germany, Jordan, Syria, and Lebanon contributed adequately to the trade visitors.
+        The number of foreign visitors from the Saudi Arabia, Oman, Kuwait, Qatar, Iran , Lebanon, and Jordan the other important
+        foreign markets for exhibiting companies manufacturers, rose to 36% on an average basis, as compared to last edition of Arabplast.
+        49% of the trade visitors showed their interest for Plastic machinery and Plastic related equipments, while some 31% of the visitors
+        expressed their interest for raw materials, and 20% of trade visitors were interested to meet participants
+        from Thermoforming, Extruders, Packaging related companies. 67 percent of the visitors are employed as high-level management.
+        33% of ArabPlast visitors indicated that they were influential in making their company’s investment decisions.
+    </string>
+
+    <string name="WhyExhibitPrices" formatted="false">
+    <b>BASIC PACKAGE</b> 4MX3M(ONE SIDE OPEN)  - US$ 455/-PER SQM (MINIMUM OF 12 SQM)
+    REAR AND WALLS (WHITE OCTANORM PANEL)
+    FASCIA NAME IN ENGLISH
+    CARPET TILES BLUE and GREY
+    ONE 13AMP 220V PLUG SOCKETOne NEWLINE TABLE
+    2 CHAIRS
+    3 SPOTLIGHTS
+\n
+\n
+    <b>SUPERIOR PACKAGE</b> 4MX3M(ONE SIDE OPEN) - US$ 475/-PER SQM (MINIMUM OF 12 SQM)
+    WOODEN ROUND BOOTH DIVIDERS WITH ORGANIZERS LOGO/NAME
+    NORMAL OCTANORM FASCIA
+    WOODEN DIVIDER ACCENT IN TRI-COLOR FOR TROPHY LOOK EFFECT
+    NORMAL OCTANORM WALL WITH WHITE PANEL
+    FOLDING DOOR FOR STORE ROOM
+    NEWLINE NORMAL COUNTER FOR RECEPTION
+    ROUND TABLE WITH 2 GRAY LEATHER CHAIR
+    ONE 13AMP, 220V PLUG SOCKET
+    4 SPOTLIGHTS
+    FLOOR CARPET
+    ONE POTTED PLANT
+\n
+\n
+    <b>SPACE ONLY</b> - US$ 420/-PER SQM (MINIMUM OF 36 SQM)
+    PLEASE NOTE SPACE ONLY EXHIBITORS SHOULD ORDER SEPARATE POWER/ELECTRICITY CONNECTION FOR THEIR STAND AREA.
+    SERVICES COMMON TO BASIC,SUPERIOR and SPACE ONLY
+    GENERAL ILLUMINATION
+    GENERAL SECURITY SERVICES
+    TECHNICAL AND ORGANIZATIONAL SERVICES
+    ENTRY IN THE OFFICIAL CATALOGUE
+    USE OF THE PRESS OFFICE
+    </string>
+
+    <string name="numberVisitors"><b>25 646</b>\n Visitors"</string>
+    <string name="numberExhibitors"><b>794</b>\nExhibitors</string>
+    <string name="squareMeters"><b>40 000</b>\nSquare meters</string>
+    <string name="numberOfCountries"><b>41</b>\nCountries</string>
 </resources>
