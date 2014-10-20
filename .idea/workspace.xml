@@ -98,8 +98,8 @@
       <file leaf-file-name="activity_about_expo.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about_expo.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41414142" vertical-offset="3693" max-vertical-offset="4626">
-              <caret line="212" column="0" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4750594" vertical-offset="3508" max-vertical-offset="4644">
+              <caret line="206" column="60" selection-start-line="206" selection-start-column="60" selection-end-line="206" selection-end-column="60" />
               <folding>
                 <element signature="e#222#257#0" expanded="true" />
                 <element signature="e#283#318#0" expanded="true" />
@@ -108,11 +108,11 @@
                 <element signature="e#4104#4122#0" expanded="true" />
                 <element signature="e#4818#4837#0" expanded="true" />
                 <element signature="e#7439#7460#0" expanded="true" />
-                <element signature="e#8016#8040#0" expanded="true" />
-                <element signature="e#8450#8476#0" expanded="true" />
-                <element signature="e#9215#9237#0" expanded="true" />
-                <element signature="e#9646#9673#0" expanded="true" />
-                <element signature="e#10078#10104#0" expanded="true" />
+                <element signature="e#8071#8095#0" expanded="true" />
+                <element signature="e#8548#8574#0" expanded="true" />
+                <element signature="e#9297#9319#0" expanded="true" />
+                <element signature="e#9772#9799#0" expanded="true" />
+                <element signature="e#10192#10218#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +163,7 @@
       <file leaf-file-name="strings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.76" vertical-offset="1676" max-vertical-offset="2340">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1676" max-vertical-offset="2340">
               <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
               <folding />
             </state>
@@ -1572,14 +1572,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="24" width="1409" height="880" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35003686" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32587412" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32587412" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1588,7 +1588,7 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5286713" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="RESTClient" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4993007" sideWeight="0.49963155" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4993007" sideWeight="0.49963155" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866618" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -2013,7 +2013,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.76" vertical-offset="1676" max-vertical-offset="2340">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1676" max-vertical-offset="2340">
           <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
           <folding />
         </state>
@@ -2021,8 +2021,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_about_expo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41414142" vertical-offset="3693" max-vertical-offset="4626">
-          <caret line="212" column="0" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4750594" vertical-offset="3508" max-vertical-offset="4644">
+          <caret line="206" column="60" selection-start-line="206" selection-start-column="60" selection-end-line="206" selection-end-column="60" />
           <folding>
             <element signature="e#222#257#0" expanded="true" />
             <element signature="e#283#318#0" expanded="true" />
@@ -2031,11 +2031,11 @@
             <element signature="e#4104#4122#0" expanded="true" />
             <element signature="e#4818#4837#0" expanded="true" />
             <element signature="e#7439#7460#0" expanded="true" />
-            <element signature="e#8016#8040#0" expanded="true" />
-            <element signature="e#8450#8476#0" expanded="true" />
-            <element signature="e#9215#9237#0" expanded="true" />
-            <element signature="e#9646#9673#0" expanded="true" />
-            <element signature="e#10078#10104#0" expanded="true" />
+            <element signature="e#8071#8095#0" expanded="true" />
+            <element signature="e#8548#8574#0" expanded="true" />
+            <element signature="e#9297#9319#0" expanded="true" />
+            <element signature="e#9772#9799#0" expanded="true" />
+            <element signature="e#10192#10218#0" expanded="true" />
           </folding>
         </state>
       </provider>
