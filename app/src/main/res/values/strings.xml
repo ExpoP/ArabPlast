@@ -10,19 +10,18 @@
     <string name="toMainMenu">To main menu</string>
     <string name="title_activity_ivent_info">IventInfo</string>
     <string name="ChooseExhibition">Choose Exhibition:</string>
-    <string name="ArabPlast2015">  <b>ArabPlast 2015</b>\n10 – 13 Jan 2015</string>
-    <string name="Login">Login</string>
-    <string name="AllExhibitions">All Exhibitions</string>
-    <string name="AboutExpo">About Expo</string>
-    <string name="ExhibitorCatalogue">Exhibitor Catalogue</string>
-    <string name="ProductCatalogue">Product Catalogue</string>
-    <string name="FloorPlan">Floor Plan</string>
-    <string name="Visitors">Visitors</string>
-    <string name="TravelInfo">Travel Info</string>
-    <string name="Contacts">Contacts</string>
-    <string name="AboutApp">About App</string>
-    <string name="WelcomeToArabPlast2015">
-        Welcome to ArabPlast 2015!\n
+    <string name="ArabPlast2015">"  <b>ArabPlast 2015"</b>\n\u0020 10 – 13 Jan 2015"</string>
+    <string name="Login">" Login"</string>
+    <string name="AllExhibitions">" All Exhibitions"</string>
+    <string name="AboutExpo">" About Expo"</string>
+    <string name="ExhibitorCatalogue">" Exhibitor Catalogue"</string>
+    <string name="ProductCatalogue">" Product Catalogue"</string>
+    <string name="FloorPlan">" Floor Plan"</string>
+    <string name="Visitors">" Visitors"</string>
+    <string name="TravelInfo">" Travel Info"</string>
+    <string name="Contacts">" Contacts"</string>
+    <string name="AboutApp">" About App"</string>
+    <string name="WelcomeToArabPlast2015">        Welcome to ArabPlast 2015!\n
         Now is the time to expand the borders of your business…\n
         Now is the time to push your sales…\n
         Now is the time to build your brand image…\n
@@ -35,20 +34,15 @@
         and revolutionary innovations and forge international alliances. Yes, it’s an event that would provide a greater leverage
         to international exhibitors and trade visitors with decision-making authority. Seize this opportunity as a manufacturer or
         service provider at ArabPlast 2015. It’s the perfect venue to showcase your products and innovations, develop contacts and
-        sign profitable partnerships.
-    </string>
-
-    <string name="WhyVisit" formatted="false">
-        Investments in plastics and petrochemical sector is on the upswing
+        sign profitable partnerships.</string>
+    <string name="WhyVisit" formatted="false">        Investments in plastics and petrochemical sector is on the upswing
         defying the global financial crisis. The Gulf petrochemicals industry continues to be
         the world’s largest producer and exporter, offloading the majority of its output
         to more than 150 countries worldwide.The Gulf states account for 11% of the $600BN global petrochemical industry.
         Over the next five years, the Gulf’s market share of the global petrochemical industry will jump to over 17%,
         according to an industrial study. GCC plastics industry becoming more vibrant as the vibrant as the demand
-        for the new products is growing with rapid speed in the region.
-    </string>
-    <string name="WhyVisit2" formatted="false">
-        Gulf states are poised to become the world’s largest source of polyethylene (PE) and polypropylene (PP).
+        for the new products is growing with rapid speed in the region.</string>
+    <string name="WhyVisit2" formatted="false">        Gulf states are poised to become the world’s largest source of polyethylene (PE) and polypropylene (PP).
         The PE production capacities in the GCC countries are expected to increase from 10.7 million tonnes in 2009
         to 21.5 million tonnes by 2015, while the production of PP is expected to rise from 4.8 million tonnes in 2009
         to 9.5 million tonnes by 2015. This will bring the combined production capacities of the two major polyolefin resins to
@@ -59,11 +53,8 @@
         This makes the region a major market for plastic additives. The UAE’s massive drive to build one of the world’s most advanced
         infrastructures has fuelled demand for plastics products, from tubes to cables and wires. The automotive industry benefits
         from the use of plastic tubes because the material makes cars lighter; so do hospitals are shifting from breakable glass syringes
-        to plastic ones.
-    </string>
-
-    <string name="WhyExhibit1" formatted="false">
-        Arabplast 2013 grew 34% following greater response from exhibitors and sponsors.
+        to plastic ones.</string>
+    <string name="WhyExhibit1" formatted="false">        Arabplast 2013 grew 34% following greater response from exhibitors and sponsors.
         Arabplast is also ranked as No. 1 show in the region for plastics, petrochemicals and rubber industry.
         A record number of 794 companies from 41 countries have participated in Arabplast 2013.
         On display at Arabplast 2013 there were new products and technologies in inj ection moulding, blow moulding,
@@ -80,11 +71,8 @@
         49% of the trade visitors showed their interest for Plastic machinery and Plastic related equipments, while some 31% of the visitors
         expressed their interest for raw materials, and 20% of trade visitors were interested to meet participants
         from Thermoforming, Extruders, Packaging related companies. 67 percent of the visitors are employed as high-level management.
-        33% of ArabPlast visitors indicated that they were influential in making their company’s investment decisions.
-    </string>
-
-    <string name="WhyExhibitPrices" formatted="false">
-    <b>BASIC PACKAGE</b> 4MX3M(ONE SIDE OPEN)  - US$ 455/-PER SQM (MINIMUM OF 12 SQM)
+        33% of ArabPlast visitors indicated that they were influential in making their company’s investment decisions.</string>
+    <string name="WhyExhibitPrices" formatted="false"><b>BASIC PACKAGE</b> 4MX3M(ONE SIDE OPEN)  - US$ 455/-PER SQM (MINIMUM OF 12 SQM)
     REAR AND WALLS (WHITE OCTANORM PANEL)
     FASCIA NAME IN ENGLISH
     CARPET TILES BLUE and GREY
@@ -92,8 +80,7 @@
     2 CHAIRS
     3 SPOTLIGHTS
 \n
-\n
-    <b>SUPERIOR PACKAGE</b> 4MX3M(ONE SIDE OPEN) - US$ 475/-PER SQM (MINIMUM OF 12 SQM)
+\n <b>SUPERIOR PACKAGE</b> 4MX3M(ONE SIDE OPEN) - US$ 475/-PER SQM (MINIMUM OF 12 SQM)
     WOODEN ROUND BOOTH DIVIDERS WITH ORGANIZERS LOGO/NAME
     NORMAL OCTANORM FASCIA
     WOODEN DIVIDER ACCENT IN TRI-COLOR FOR TROPHY LOOK EFFECT
@@ -106,19 +93,20 @@
     FLOOR CARPET
     ONE POTTED PLANT
 \n
-\n
-    <b>SPACE ONLY</b> - US$ 420/-PER SQM (MINIMUM OF 36 SQM)
+\n <b>SPACE ONLY</b> - US$ 420/-PER SQM (MINIMUM OF 36 SQM)
     PLEASE NOTE SPACE ONLY EXHIBITORS SHOULD ORDER SEPARATE POWER/ELECTRICITY CONNECTION FOR THEIR STAND AREA.
     SERVICES COMMON TO BASIC,SUPERIOR and SPACE ONLY
     GENERAL ILLUMINATION
     GENERAL SECURITY SERVICES
     TECHNICAL AND ORGANIZATIONAL SERVICES
     ENTRY IN THE OFFICIAL CATALOGUE
-    USE OF THE PRESS OFFICE
-    </string>
-
+    USE OF THE PRESS OFFICE</string>
     <string name="numberVisitors"><b>25 646</b>\n Visitors"</string>
     <string name="numberExhibitors"><b>794</b>\nExhibitors</string>
     <string name="squareMeters"><b>40 000</b>\nSquare meters</string>
     <string name="numberOfCountries"><b>41</b>\nCountries</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="Mr.JeenJoshuaExhibitionManager"><b>" Mr. Jeen Joshua</b>\n Exhibition Manager"</string>
+    <string name="alfajerAddress">Al Fajer Information &amp; Services P.O. Box\n11183, Dubai, United Arab Emirates</string>
+
 </resources>

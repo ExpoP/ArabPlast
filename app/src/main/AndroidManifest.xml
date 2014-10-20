@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="expoplatform.arabplast">
+    package="expoplatform.arabplast" >
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -8,12 +8,10 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher_arrow"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme">
-
-
+        android:theme="@style/AppTheme" >
         <activity
             android:name="expoplatform.arabplast.LogoActivity"
-            android:theme="@style/Logo">
+            android:theme="@style/Logo" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -22,18 +20,24 @@
         </activity>
         <activity
             android:name="expoplatform.arabplast.Exhibitions"
-            android:label="@string/title_activity_exhibitions"/>
+            android:label="@string/title_activity_exhibitions"
+            android:theme="@android:style/Theme.Holo" />
         <activity
             android:name="expoplatform.arabplast.AboutExpo"
             android:label="@string/title_activity_about_expo"
-            android:theme="@android:style/Theme.Holo"/>
+            android:theme="@android:style/Theme.Holo" />
         <activity
-            android:name=".ActionBarMenu"
-            android:label="@string/title_activity_main_menu"/>
+            android:name="expoplatform.arabplast.ActionBarMenu"
+            android:label="@string/title_activity_main_menu" />
         <activity
             android:name="expoplatform.arabplast.IventInfo"
             android:label="@string/title_activity_ivent_info"
-            android:theme="@style/IventInfo"/>
+            android:theme="@style/IventInfo" />
+        <activity
+            android:name="expoplatform.arabplast.Contacts"
+            android:label="@string/title_activity_contacts"
+            android:theme="@android:style/Theme.Holo" >
+        </activity>
     </application>
 
 </manifest>
