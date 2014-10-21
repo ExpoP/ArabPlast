@@ -106,7 +106,8 @@
     <string name="squareMeters"><b>40 000</b>\nSquare meters</string>
     <string name="numberOfCountries"><b>41</b>\nCountries</string>
     <string name="title_activity_contacts">Contacts</string>
-    <string name="Mr.JeenJoshuaExhibitionManager"><b>" Mr. Jeen Joshua</b>\n Exhibition Manager"</string>
+    <string name="Mr.JeenJoshuaExhibitionManager">\u0020<b>Mr. Jeen Joshua</b>\n Exhibition Manager</string>
     <string name="alfajerAddress">Al Fajer Information &amp; Services P.O. Box\n11183, Dubai, United Arab Emirates</string>
+    <string name="Ms.FelnorAguirreExhibitionCoordinator">\u0020<b>Ms. Felnor Aguirre</b>\n Exhibition Coordinator</string>
 
 </resources>
