@@ -109,5 +109,7 @@
     <string name="Mr.JeenJoshuaExhibitionManager">\u0020<b>Mr. Jeen Joshua</b>\n Exhibition Manager</string>
     <string name="alfajerAddress">Al Fajer Information &amp; Services P.O. Box\n11183, Dubai, United Arab Emirates</string>
     <string name="Ms.FelnorAguirreExhibitionCoordinator">\u0020<b>Ms. Felnor Aguirre</b>\n Exhibition Coordinator</string>
+    <string name="Mr.MykytaFastovetsSupport">\u0020<b>Mr. Mykyta Fastovets</b>\n Support</string>
+    <string name="expoPlatformAddress">ExpoPlatform, 2 Woodberry grove, London, UK"</string>
 
 </resources>
