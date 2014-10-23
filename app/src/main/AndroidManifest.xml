@@ -38,6 +38,10 @@
             android:label="@string/title_activity_contacts"
             android:theme="@android:style/Theme.Holo" >
         </activity>
+        <activity
+            android:name="expoplatform.arabplast.ExhibitorCatalogue"
+            android:label="@string/title_activity_exhibitor_catalogue" >
+        </activity>
     </application>
 
 </manifest>

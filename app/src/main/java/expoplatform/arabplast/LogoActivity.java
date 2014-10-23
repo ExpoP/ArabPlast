@@ -1,15 +1,21 @@
 package expoplatform.arabplast;
 
-import android.app.ActionBar;
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
 import android.os.Bundle;
+import android.provider.BaseColumns;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 
 
 public class LogoActivity extends Activity {
+
+
+    private Dao dao;
+
+
 
     private final String TAG = getClass().getSimpleName();
 
@@ -18,17 +24,27 @@ public class LogoActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_logo);
 
-        try {
+        //Instance for working with the database
+        dao = new Dao(getApplicationContext()); //.getWritableDatabase();
+
+
+
+        /*try {
             Thread.sleep(3L * 1000L);
         } catch (Exception e) {
             Log.e(TAG, "Main thread interrupted", e);
-        }
+        }*/
 
         startActivity(new Intent(this, Exhibitions.class));
     }
 
 
-    @Override
+
+
+
+
+
+    /*@Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.logo, menu);
@@ -48,5 +64,5 @@ public class LogoActivity extends Activity {
         }
 
         return super.onOptionsItemSelected(item);
-    }
+    }*/
 }
