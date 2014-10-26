@@ -1,11 +1,11 @@
 <resources>
 
-    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar" />
+    <style name="AppTheme" parent="android:Theme.Holo" />
 
     <!-- Base application theme. -->
 
 
-    <style name="Logo" parent="android:Theme.Holo.Light.NoActionBar">
+    <style name="Logo" parent="android:Theme.Holo.NoActionBar">
         <item name="android:windowBackground">@drawable/ep_logo</item>
     </style>
 
